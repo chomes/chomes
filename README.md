@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chomes
 - 👀 I’m interested in python development
-- 🌱 I’m currently learning JS/TS and trying to learn C
-- 💞️ I’m looking to collaborate on anything python related and possibly JS/TS related
+- 🌱  I'm currently learning most general things linux related but might start taking an interest in rust
+- 💞️ Although I'm not as free as I use to be, I may still help out slightly with python related code.
 - 📫 Message here to reach me.
 
 <!---
